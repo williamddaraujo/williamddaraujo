@@ -3,7 +3,7 @@
 
 - 🔭 Aprendendo **Java**
 
-- 👨‍💻 Bacharelado em Análise e Desenvolvimento de Sistemas **Impacta**
+- 👨‍💻 Bacharelado em  Análise e Desenvolvimento de Sistemas 3/6 **Impacta**
 
 - 👯 Professor de Informática **Microcamp**
 
